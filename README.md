@@ -7,6 +7,13 @@ This model could be useful if you want to show a video of any car on social medi
 The model used to train license plate detector: yolov8n.pt.
 Library used in image processing and blurred: OpenCV.
 
+FILES:
+•  License_Plate_Detector_Model_Train.ipynb : License plate detector model training.
+•  L_P_D_M_Predictor.ipynb : License plate detector model predictior.
+•  License_Plate_Blur.opynb : Blured code with OpenCV. 
+•  output_1.mp4 and output_3.mp4 : Result of test videos. 
+
+
 **Conclusion:**
 **•  The model works very well, detecting all the license plates.**
 
