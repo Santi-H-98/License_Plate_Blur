@@ -19,6 +19,7 @@ FILES:
 
 
 **Conclusion:**
+
 **•  The model works very well, detecting all the license plates.**
 
 **•  For recognizing plates the model needs images or videos with the best quality as be possible, otherwise, distant or not focused cars, don't are recognized.**
