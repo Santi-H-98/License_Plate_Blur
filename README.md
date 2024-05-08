@@ -7,12 +7,12 @@ This model could be useful if you want to show a video of any car on social medi
 The model used to train license plate detector: yolov8n.pt.
 Library used in image processing and blurred: OpenCV.
 
-**Conclusion:
-•  The model works very well, detecting all the license plates. 
+**Conclusion:**
+**•  The model works very well, detecting all the license plates.**
 
-•  For recognizing plates the model needs images or videos with the best quality as be possible, otherwise, distant or not focused cars, don't are recognized. 
+**•  For recognizing plates the model needs images or videos with the best quality as be possible, otherwise, distant or not focused cars, don't are recognized.**
 
-•  I could understand how to obtain boxes information from YOLO, and how to apply it in images trought OpenCV.**
+**•  I could understand how to obtain boxes information from YOLO, and how to apply it in images trought OpenCV.**
 
 
 Images:
