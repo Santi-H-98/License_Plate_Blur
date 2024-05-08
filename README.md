@@ -28,5 +28,6 @@ FILES:
 
 
 Images:
+
 ![FOTO_1](https://github.com/Santi-H-98/License_Plate_Blur/assets/147663147/181b65a1-4600-40cc-a438-6fb73a688c28)
 ![FOTO_2](https://github.com/Santi-H-98/License_Plate_Blur/assets/147663147/fc977b1d-563b-4a32-b8b0-bd2c1fbfec69)
